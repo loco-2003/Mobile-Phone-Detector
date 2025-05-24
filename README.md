@@ -1,7 +1,7 @@
 
 # Mobile Phone Detector
 
-This repository presents the implementation of a simple RF signal-based mobile phone detector. The circuit utilizes an LM358 operational amplifier, capacitors, and a BC548 transistor to detect the presence of active mobile phones by sensing electromagnetic signals generated during calls, SMS, or data transmission. This project was completed as part of the ECT301 – Linear Integrated Circuits course.
+This repository presents the implementation of a simple RF signal-based mobile phone detector. The circuit utilizes an LM358 operational amplifier, capacitors, and a BC548 transistor to detect the presence of active mobile phones by sensing electromagnetic signals generated during calls, SMS, or data transmission. 
 
 ---
 
@@ -78,7 +78,5 @@ The designed circuit effectively detects RF radiation emitted by mobile phones. 
 **Institution**: NSS College of Engineering, Palakkad  
 **University**: APJ Abdul Kalam Technological University
 
----
 
-## 📁 Folder Structure (Suggested)
 
