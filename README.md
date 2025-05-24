@@ -79,4 +79,7 @@ The designed circuit effectively detects RF radiation emitted by mobile phones. 
 **University**: APJ Abdul Kalam Technological University
 
 
+## 📜 License
+
+This project is intended for educational and academic use. Please credit the original authors when adapting or reusing any part of this work.
 
